@@ -1,0 +1,39 @@
+
+.logo img{
+  position:absolute;
+    left: 0;
+    right: 0;
+    margin:0 auto;
+    top: 70px;
+    padding-top: 50px
+    transform:translateY(-100%);
+}
+.foot-lnk{
+	position:relative;
+    left: 120px;
+    right: 0;
+    top: 380px;
+    padding-top: 50px
+    text:center;
+    color: #696969;
+
+}
+.header {
+    background-image: url(../img/Background_top.png)!important;
+    background-size: cover;
+    background-position:center center;
+    background-color: transparent;
+    height: 110px;
+
+}
+.title{
+position:relative;
+color: #fff;
+font-size: 25px;
+
+}
+.tabs-icon-top, .tabs-home
+{
+
+    color: red!important
+}
